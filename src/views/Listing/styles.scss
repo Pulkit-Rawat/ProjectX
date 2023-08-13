@@ -1,0 +1,17 @@
+.list-wrapper{
+  background-color: transparent;
+  .product{
+    padding: 12px;
+    border-top: 1px solid rgba(255,255,255,.08);
+    &-brand, &-price {
+      color: #fff;
+    }
+    &-desc{
+      color: #efedfd99;
+    }
+
+    &-img{
+      border-radius: 12px;
+    }
+  }
+}

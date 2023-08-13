@@ -1,0 +1,85 @@
+{
+  "phones": [
+    {
+      "brand": "Vivo",
+      "model": "T2x",
+      "price": "13999",
+      "storage": "8GB | 128 GB ROM",
+      "display": "6.2 inch HD+",
+      "camera": "50MP + 2MP | 8MP Front Camera",
+      "warranty": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for in the Box Accessories",
+      "img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/4/h/e/-original-imagzjhwmsamexfk.jpeg?q=70"
+    },{
+      "brand": "Poco",
+      "model": "C51",
+      "price": "6499",
+      "storage": "4 GB | 64 GB ROM",
+      "display": "6.2 inch HD+",
+      "camera": "12MP + 5MP | 8MP Front Camera",
+      "warranty": "1 Year Manufacturer Warranty",
+      "img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/v/0/c51-mzb0dxkin-poco-original-imagzdpycgrcdc8z.jpeg?q=70"
+    },{
+      "brand": "Infinix",
+      "model": "Smart 7",
+      "price": "7499",
+      "storage": "6GB",
+      "display": "6 inch HD+",
+      "camera": "12MP + 12MP | 8MP Front Camera",
+      "warranty": "2 Year Manufacturer Warranty for Phone and 6 Months Warranty for in the Box Accessories",
+      "img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/a/d/-original-imagrqg4uruhwuza.jpeg?q=70"
+    },{
+      "brand": "Poco",
+      "model": "C55",
+      "price": "12999",
+      "storage": "6GB | 64GB ROM",
+      "display": "6.4 inch FHD+",
+      "camera": "100MP + 48MP | 8MP Front Camera",
+      "warranty": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for in the Box Accessories",
+      "img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/a/d/-original-imagrqg4uruhwuza.jpeg?q=70"
+    },{
+      "brand": "Realme",
+      "model": "C53",
+      "price": "10999",
+      "storage": "8GB | 256GB ROM",
+      "display": "6.8 inch HD+",
+      "camera": "50MP + 2MP | 8MP Front Camera",
+      "warranty": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for in the Box Accessories",
+      "img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/6/a/d/-original-imagrqg4uruhwuza.jpeg?q=70"
+    },{
+      "brand": "Motorola",
+      "model": "G32",
+      "price": "11999",
+      "storage": "8GB | 128GB",
+      "display": "6 inch QHD+",
+      "camera": "50MP + 2MP | 8MP Front Camera",
+      "warranty": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for in the Box Accessories",
+      "img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/j/j/-original-imagnvvwvzyhfvx9.jpeg?q=70"
+    },{
+      "brand": "Apple",
+      "model": "iPhone 13",
+      "price": "60999",
+      "storage": "8GB | 128GB ROM",
+      "display": "6.1 Super Ratina XDR",
+      "camera": "12MP + 12MP | 12MP Front Camera",
+      "warranty": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for in the Box Accessories",
+      "img": "https://rukminim2.flixcart.com/image/312/312/ktketu80/mobile/s/l/c/iphone-13-mlpf3hn-a-apple-original-imag6vzz5qvejz8z.jpeg?q=70"
+    },{
+      "brand": "Samsung",
+      "model": "Galaxy Z4 Fold",
+      "price": "154999",
+      "storage": "12GB | 256GB ROM",
+      "display": "7.2 inch FHD+",
+      "camera": "50MP + 12MP | 10MP Front Camera",
+      "warranty": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for in the Box Accessories"
+    },{
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "price": "124999",
+      "storage": "12GB | 256GB ROM",
+      "display": "6.8 inch Quad HD+",
+      "camera": "200MP + 10MP | 12MP Front Camera",
+      "warranty": "1 Year Manufacturer Warranty for Phone and 6 Months Warranty for in the Box Accessories",
+      "img": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/l/o/-original-imagmg6gzjf7gggt.jpeg?q=70"
+    }
+  ]
+}
