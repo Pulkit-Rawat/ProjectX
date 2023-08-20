@@ -43,4 +43,23 @@
       color: white;
     }
   }
+  .filter{
+    padding: 4px 0;
+    p{
+      margin-bottom: 4px;
+    }
+  }
+  .category{
+    &-title{
+      color: white;
+    }
+    &-label{
+      color: rgba(255, 255, 255, 0.9019607843);
+      margin-bottom: 0px;
+      font-size: 12px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+    }
+  }
 }

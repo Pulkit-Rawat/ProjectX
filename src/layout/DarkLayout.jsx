@@ -1,8 +1,9 @@
 import { Col, Container, Row } from "reactstrap";
-import './styles.scss'
 
+import Filters from "../components/Filters";
 import HeaderDark from "../components/HeaderDark";
-import SidebarDark from "../components/SidebarDark";
+
+import './styles.scss'
 
 const DarkLayout = ({ children }) => {
   return (
@@ -10,7 +11,7 @@ const DarkLayout = ({ children }) => {
     <HeaderDark />
     <div className="dark-layout">
       <Container className="app-main">
-          <SidebarDark />
+          <Filters />
           {children}
       </Container>
     </div>
